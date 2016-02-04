@@ -1,5 +1,3 @@
-# Association On passe à l'acte
-
 ![Image](http://www.paroles-partagees.org/images/imagesFCK/image/actions/on_passe_a_l_acte//image_T1.jpg)
 
 Bienvenue sur la section multiBàO du média citoyen http://onpassealacte.fr.
