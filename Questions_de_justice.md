@@ -10,13 +10,13 @@ L'idée : mettre l'accent "sur les conséquences, réparer les dommages causés 
 
 Pour ça, elle a créé l'association "Question de Justice" qui organise des conférences, ateliers et formations auprès de professionnels de l'éducation (instituteurs, éducateurs...) et des particuliers (collectifs qui souhaitent s'engager dans un projet commun, familles qui souhaitent régler un problème).
 
-Résultats :
+**Résultats :**
 
-    250 coordinateurs formés en pratiques de justice restaurative (médiateurs sociaux, citoyens, bailleurs, thérapeutes, juristes...)
-    Création d'une réflexion, écriture mais aussi formation des enseignants en pratiques de justice restaurative en partenariat avec la Délégation ministérielle pour la prévention des violences et l'amélioration du climat scolaire.
-    Création d'un réseau international via trois associations internationales qui soutiennent le projet
-    Création et développement de plaquettes sur les différentes pratiques de la justice restaurative
-    L'association a été reconnue comme utile pour la société et aidée par Pôle Emploi
+* 250 coordinateurs formés en pratiques de justice restaurative (médiateurs sociaux, citoyens, bailleurs, thérapeutes, juristes...)
+* Création d'une réflexion, écriture mais aussi formation des enseignants en pratiques de justice restaurative en partenariat avec la Délégation ministérielle pour la prévention des violences et l'amélioration du climat scolaire.
+* Création d'un réseau international via trois associations internationales qui soutiennent le projet
+* Création et développement de plaquettes sur les différentes pratiques de la justice restaurative
+* L'association a été reconnue comme utile pour la société et aidée par Pôle Emploi
 
 Aujourd'hui Hélène tente de se rapprocher des institutions telles que les conseils généraux, ministères, villes pour développer son action et promouvoir la justice restaurative. En effet, pour elle, "si nous arrivons à mettre en œuvre les pratiques de justice restaurative, j'aurais été un maillon de la chaîne : une chaîne qui rendra la dignité aux gens, créera et restaurera des relations, réparera des blessures et en préviendra beaucoup."
 
