@@ -8,10 +8,10 @@ Philippe est professeur de Physique-chimie au collège. Pour permettre à tous l
 
 Pour ça, il a décidé
 
-    de prioriser les compétences à acquérir et de les expliquer clairement aux élèves
-    d'évaluer les compétences à n'importe quel moment de la vie scolaire
-    de choisir avec la classe des moments d'évaluation et des compétences évaluées 
-    de mettre à disposition des élèves et de leurs parents des outils informatiques pour s'approprier leur progression (logiciels libres)
+* de prioriser les compétences à acquérir et de les expliquer clairement aux élèves
+* d'évaluer les compétences à n'importe quel moment de la vie scolaire
+* de choisir avec la classe des moments d'évaluation et des compétences évaluées 
+* de mettre à disposition des élèves et de leurs parents des outils informatiques pour s'approprier leur progression (logiciels libres)
 
 Résultats : fini les contrôles surprise, fini les élèves laissés sur le bas-côté, ils ont les quatre années de collège devant eux pour acquérir leurs compétences.
 
