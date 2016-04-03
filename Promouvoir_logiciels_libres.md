@@ -10,6 +10,6 @@ Pour ça, Laurent est engagé dans plusieurs associations qui oeuvrent pour la s
 
 Ce qui l'intéresse, c'est la dimension philosophique et sociale de la pratique :
 
-    Ces logiciels appartiennent à tout le monde et à personne
-    Chacun peut l'utiliser à volonté, avec peu de risques de censure ou d'espionnage
-    Ils sont produits de manière collaborative
+* Ces logiciels appartiennent à tout le monde et à personne
+* Chacun peut l'utiliser à volonté, avec peu de risques de censure ou d'espionnage
+* Ils sont produits de manière collaborative
