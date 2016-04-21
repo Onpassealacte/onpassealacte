@@ -1,3 +1,10 @@
+---
+description: Inventer de nouvelles façons d’aborder la vieillesse ? C’est le pari lancé par Thérèse Clerc et une vingtaine de femmes à travers le projet de la maison des Babayagas.
+published: true
+title: Vieillir collectivement et de manière autonome
+image: 
+---
+
 # Vieillir collectivement et de manière autonome : une idée réalisée !
 
 > On a décidé de fonder un habitat senior autogéré et partagé ! 
