@@ -1,3 +1,9 @@
+---
+description: null
+image: ""
+published: false
+title: "On passe à l'acte"
+---
 ![Image](http://www.paroles-partagees.org/images/imagesFCK/image/actions/on_passe_a_l_acte//image_T1.jpg)
 
 Vous trouverez ici des vidéos relatant le témoignage de celles et ceux qui ont porté des initiatives remarquables collaboratives.
@@ -9,4 +15,3 @@ Toutes nos vidéos sont publiées sous licence Creative Commons BY-SA.
 Au plaisir de vous rencontrer.
 
 Pour contribuer et/ou nous contacter: contact@onpassealacte.fr
-
