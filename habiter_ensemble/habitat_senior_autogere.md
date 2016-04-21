@@ -1,3 +1,9 @@
+---
+description: null
+image: ""
+published: false
+title: Habitat senior autogéré
+---
 # Vieillir collectivement et de manière autonome : une idée réalisée !
 
 > On a décidé de fonder un habitat senior autogéré et partagé ! 
