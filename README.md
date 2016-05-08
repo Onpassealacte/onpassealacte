@@ -1,6 +1,6 @@
 ---
-title: Interviews vidéos de citoyens, par thématique
-description: On passe à l’acte, c'est l'histoire d'une équipe associative qui a passé ces dix dernières années à interviewer des citoyens qui, par leur élan et leur ingéniosité, ont montré que "c'est possible". Le dépôt concerne des initiatives collectives
+title: Interviews vidéos de citoyens qui la jouent collectif
+description: Habiter autrement, réinventer la démocratie, ..., découvrez des vidéos d'initiatives collaboratives
 image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/README_introduction.jpg
 ---
 
