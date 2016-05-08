@@ -1,3 +1,9 @@
+---
+title: On fait de la colocation senior/étudiant
+description: Simone, retraitée très dynamique, n'aime pas vivre seule dans son appartement et propose régulièrement une colocation à un étudiant.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/coloc_integerenerationnelle.jpg
+---
+
 # Oser la Colocation intergénérationnelle
 
 > Simone (81 ans) et Medhi (30 ans) : On fait de la colocation senior/étudiant.. une belle rencontre entre générations !
