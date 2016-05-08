@@ -1,3 +1,9 @@
+---
+title: J'ai décidé de créer des maisons partagées !
+description: Josette a créé des lieux organisés de cohabitation entre personnes vieillissantes.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/maisons_partagees_retraite.jpg
+---
+
 # Inventer des alternatives à la maison de retraite
 
 **Durée : 7'47 - Réalisé en 2015**
