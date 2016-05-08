@@ -1,3 +1,9 @@
+---
+title: Encourager de nouvelles manières de gérer les litiges entre les gens
+description: Hélène a décidé de promouvoir la justice restaurative pour changer les relations entre les gens et faciliter la gestion des litiges.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/question_justice.jpg
+---
+
 # Encourager de nouvelles manières de gérer les litiges entre les gens
 
 > J'ai décidé de diffuser un modèle de justice basé sur la relation et la réparation plutôt que la punition
