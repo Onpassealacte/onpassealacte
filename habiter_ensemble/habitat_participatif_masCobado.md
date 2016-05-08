@@ -1,3 +1,10 @@
+---
+title: MasCobado, un habitat participatif pour mieux vivre ensemble
+description: Un groupe de citoyens motivés pour habiter ensemble s'est lancé dans l'aventure de la construction de deux bâtiments d'habitation bioclimatiques, soit 23 logements, dont plusieurs en locatifs.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/mascobado.jpg
+---
+
+
 # MasCobado : un habitat participatif pour mieux vivre ensemble
 
 > Réalisés en 2015, 3 vidéos de 19 mn, 4 mn et 49 mn.
