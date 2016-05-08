@@ -1,3 +1,9 @@
+---
+title: J'ai décidé de rendre mes élèves acteurs de leur apprentissage 
+description: Séverine est institutrice. Selon elle, "pour faire des adultes autonomes et qui font du sens dans leur vie il faut proposer des outils qui leurs permettent de se révéler."
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/pedagogie_active.jpg
+---
+
 # Proposer de nouvelles manières d'enseigner
 
 > J'ai décidé de rendre mes élèves acteurs de leur apprentissage 
