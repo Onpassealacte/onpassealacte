@@ -1,3 +1,9 @@
+---
+title: Mutualiser dans un réseau de colocations
+description: Un collectif d'une dizaine de colocations a décidé de mettre en commun leurs outils, leurs matériels et de partager leurs savoir-faire et compétences. 
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/mutualisation%20colocation.jpg
+---
+
 # Mutualiser dans un réseau de colocations
 
 > On a décidé de partager matériel et savoir-faire entre 10 locations
