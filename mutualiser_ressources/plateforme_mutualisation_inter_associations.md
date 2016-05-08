@@ -1,3 +1,9 @@
+---
+titre: On a décidé de favoriser l’entraide entre les associations ! 
+description: Céline, Aicha et Florence ont créé l’association «  Pass’Assol passerelle d'association solidaire » pour dynamiser le réseau associatif et permettre la mutualisation entre les structures.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/mutualisation_association.jpg
+---
+
 # Créer une plateforme de mutualisation entre associations
 
 > On a décidé de favoriser l’entraide entre les associations ! 
@@ -8,4 +14,4 @@ Céline Descombes, Aicha Chedal et Florence Valls sont de sacrées passeuses à 
 
 « Superwomen » du monde associatif, elles font un constat commun : les petites associations, bien qu’indispensables à notre société, ne sont pas assez soutenues et valorisées.
 
-Elles ont créé l’association «  Pass’Assol : passerelle d'association solidaire » pour dynamiser le réseau associatif et permettre la mutualisation entre les structures.
+Elles ont créé l’association «  Pass’Assol passerelle d'association solidaire » pour dynamiser le réseau associatif et permettre la mutualisation entre les structures.
