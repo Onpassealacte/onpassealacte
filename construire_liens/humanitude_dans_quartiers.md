@@ -1,3 +1,9 @@
+---
+titre: Créer du lien dans ma cité
+description: Ahmed est un philosophe des cités, et en plus, il passe à l'acte et ça mérite d'être diffusé. Voici une des actions qu'il mène : le lien pour combattre les barrières que l'on constate dans notre société.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/humanitude_quartiers.jpg
+---
+
 # Développer l'Humanitude dans les quartiers
 
 > J'ai décidé de créer du lien dans ma cité
