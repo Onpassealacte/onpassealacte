@@ -1,6 +1,6 @@
 ---
-title: Interviews vidéos de citoyens qui la jouent collectif
-description: Habiter autrement, réinventer la démocratie, ..., découvrez des vidéos d'initiatives collaboratives
+title: Ces citoyens qui sont passés à l'acte et qui nous partagent en vidéo comment ils ont fait.
+description: L'association Onpassealacte a passé ces 10 dernières années à interviewer des citoyens. Vous trouverez ici des feed-backs vidéos sur des initiatives collaboratives mises en place sur des thèmes aussi variés que l'habiter ensemble, créer du lien ou encore réinventer la démocratie. 
 image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/README_introduction.jpg
 ---
 
