@@ -1,6 +1,6 @@
 ---
 title: On s'est lancé dans un projet d'éco-habitat groupé
-description: Raphaël et Florine se sont lancés dans une grande aventure : un projet d'habitat groupé écologique; près de 25 personnes sont rassemblées dans l'association Ecoravie pour lui faire voir le jour. 
+description: Raphaël et Florine se sont lancés dans une grande aventure : un projet d'habitat groupé écologique.
 image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/ecoravie.jpg
 ---
 
