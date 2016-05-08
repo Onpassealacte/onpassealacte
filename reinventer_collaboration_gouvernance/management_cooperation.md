@@ -1,3 +1,9 @@
+---
+title: Promouvoir un modèle de management basé sur la coopération
+description: Frédéric a cessé son activité professionnelle de coaching auprès de grandes entreprises pour étudier pendant trois ans l'émergence à travers le monde d'un nouveau paradigme de gestion des organisations basé sur la coopération. 
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/management_cooperation.jpg
+---
+
 # Promouvoir un modèle de management basé sur la coopération
 
 > J'ai décidé de faire connaître un nouveau mode de gestion des entreprises
