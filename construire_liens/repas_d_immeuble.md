@@ -1,3 +1,9 @@
+---
+title: On a organisé un repas d'immeuble
+description: Fabien et Pauline ne croisaient jamais leurs voisins, à part sur le parking ! Ils ont alors décidé d'organiser un repas collectif au milieu de leur résidence.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/repas_immeuble.jpg
+---
+
 # Favoriser le lien avec nos voisins !
 
 > On a organisé un repas d'immeuble ! 
