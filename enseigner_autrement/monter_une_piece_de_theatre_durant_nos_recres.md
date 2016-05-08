@@ -1,3 +1,9 @@
+---
+title: On a monté une pièce de théâtre pendant nos récrés ! 
+description: Luna, 8 ans, a passé plus de dix récréations à répéter avec ses copains une pièce de théâtre que les enfants ont adaptée tout seuls à partir d'un livre… 
+image: https://github.com/onpassealacte/videos_initiatives/blob/master/media/piece_theatre.jpg
+---
+
 # Etre force de proposition même quand on est enfant
 
 > On a décidé de monter une pièce de théâtre pendant nos récrés !
