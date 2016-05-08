@@ -1,3 +1,9 @@
+---
+title: J'ai décidé de valoriser les intelligences multiples de mes élèves
+description: Séverine est institutrice et elle a décidé de prendre en compte les intelligences multiples dans la pratique de son métier.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/intelligences_multiples.jpg
+---
+
 # Favoriser les intelligences multiples
 
 > J'ai décidé de valoriser les intelligences multiples de mes élèves
