@@ -1,3 +1,9 @@
+---
+title: J'ai créé un réseau francophone de la botanique.
+description: Daniel a décidé de rassembler les acteurs de la botanique. Il a créé Tela Botanica.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/reseau_botanique.jpg
+---
+
 # Rassembler les botanistes et encourager la création de bien commun
 
 > J'ai décidé d'inventer une solution de mise en lien des acteurs de la botanique pour faciliter leurs rencontres et préserver les savoirs
