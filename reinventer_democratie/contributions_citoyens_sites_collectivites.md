@@ -1,3 +1,9 @@
+---
+title: Aider les citoyens à être actifs grâce au numérique
+description: La ville de Brest propose une dizaine de sites internet thématiques (égalité hommes/femmes, économie sociale et solidaire, déplacements durables...) où chaque citoyen peut s'exprimer comme bon lui semble.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/sites_collectivites.jpg
+---
+
 # Aider les citoyens à être actifs grâce au numérique
 
 > On a décidé de favoriser la contribution citoyenne sur les sites de nos collectivités 
