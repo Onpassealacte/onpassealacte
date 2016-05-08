@@ -1,3 +1,9 @@
+---
+title: Favoriser la montée en compétence plutôt que les notes
+description: Philippe est professeur de Physique-chimie au collège. Pour permettre à tous les élèves de monter en compétence, il a arrêté de faire des "contrôles surprise" et de donner des notes.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/changer_notes_ecole.jpg
+---
+
 # Changer notre façon de donner des notes à l'école
 
 > J'ai décidé de favoriser la montée en compétence plutôt que les notes et la compétition dans mes classes de collège
