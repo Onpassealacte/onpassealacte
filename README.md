@@ -1,3 +1,9 @@
+---
+title: Interviews vidéos de citoyens, par thématique
+description: On passe à l’acte, c'est l'histoire d'une équipe associative qui a passé ces dix dernières années à interviewer des citoyens qui, par leur élan et leur ingéniosité, ont montré que "c'est possible". Le dépôt concerne des initiatives collectives
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/README_introduction.jpg
+---
+
 ![Image](http://www.paroles-partagees.org/images/imagesFCK/image/actions/on_passe_a_l_acte//image_T1.jpg)
 
 Vous trouverez ici des vidéos relatant le témoignage de celles et ceux qui ont porté des initiatives remarquables collaboratives.
