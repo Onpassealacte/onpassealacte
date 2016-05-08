@@ -1,3 +1,9 @@
+---
+title: Mutualiser savoirs et compétences entre artistes !
+description: Corentin, artiste, musicien et professeur a eu l’idée de créer des ateliers artistiques… pour et entre artistes d'origine et de discipline différentes afin qu'ils mutualisent leurs compétences !
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/mutualisation_artistes.jpg
+---
+
 # Mutualiser savoirs et compétences entre artistes !
 
 >  J'ai décidé d'organiser un atelier autogéré et pluridisciplinaire pour les artistes.
