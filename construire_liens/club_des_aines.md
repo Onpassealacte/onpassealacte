@@ -1,3 +1,9 @@
+---
+title: J'ai créé un club des aînés
+description: Claude a décidé d'aider les seniors à ne plus être seuls. Pour ça il s'engage dans le club des aînés de sa commune et lance l'opération " Pas un seul senior seul ".
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/dynamiser_vie_sociale.jpg
+---
+
 # Dynamiser la vie sociale des personnes âgées
 
 > J'ai décidé d'investir toute mon énergie pour qu'aucun aîné de mon village ne reste isolé
