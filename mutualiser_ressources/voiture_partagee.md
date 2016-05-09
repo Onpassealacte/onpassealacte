@@ -1,7 +1,7 @@
 ---
 title: Contribuer à la sobriété en partageant sa voiture
 description: Depuis 18 mois, Christine partage sa voiture avec une amie.
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/mutualiser_voiture.jpg
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/mutualiser_voiture.jpg?raw=true
 ---
 
 # Contribuer à la sobriété en partageant sa voiture
