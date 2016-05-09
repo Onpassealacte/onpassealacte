@@ -1,7 +1,7 @@
 ---
 title: Vieillir collectivement et de manière autonome, une idée réalisée !
 description: Inventer de nouvelles façons d’aborder la vieillesse, c’est le pari lancé par Thérèse Clerc et une vingtaine de femmes à travers le projet de la maison des Babayagas.
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/habitat_senior_autogere.jpg
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/habitat_senior_autogere.jpg?raw=true
 ---
 
 # Vieillir collectivement et de manière autonome : une idée réalisée !
