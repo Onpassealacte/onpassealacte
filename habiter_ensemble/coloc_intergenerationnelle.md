@@ -1,7 +1,7 @@
 ---
 title: On fait de la colocation senior/étudiant
 description: Simone, retraitée très dynamique, n'aime pas vivre seule dans son appartement et propose régulièrement une colocation à un étudiant.
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/coloc_integerenerationnelle.jpg
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/coloc_integerenerationnelle.jpg?raw=true
 ---
 
 # Oser la Colocation intergénérationnelle
