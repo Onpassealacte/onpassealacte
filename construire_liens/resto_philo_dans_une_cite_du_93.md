@@ -1,7 +1,7 @@
 ---
 title: J'ai décidé de changer de métier pour créer un "resto philo" dans ma cité
 description: Déçu par le milieu de l'animation peu démocratique à son sens, Ahmed a décidé de créer un restaurant philosophique dans sa cité.
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/humanitude_quartiers.jpg
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/humanitude_quartiers.jpg?raw=true
 ---
 
 # Créer un restaurant philosophique dans une cité du 93
