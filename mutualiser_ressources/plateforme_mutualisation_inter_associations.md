@@ -1,7 +1,7 @@
 ---
 titre: On a décidé de favoriser l’entraide entre les associations ! 
 description: Céline, Aicha et Florence ont créé l’association «  Pass’Assol passerelle d'association solidaire » pour dynamiser le réseau associatif et permettre la mutualisation entre les structures.
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/mutualisation_association.jpg
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/mutualisation_association.jpg?raw=true
 ---
 
 # Créer une plateforme de mutualisation entre associations
