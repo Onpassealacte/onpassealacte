@@ -1,7 +1,7 @@
 ---
 title: Réinventer la démocratie par l'écriture d'une constitution citoyenne
 description: Etienne a décidé de consacrer tout son temps libre à la question de la démocratie "c'est à nous tous d'écrire les règles du pouvoir {...} on laisse écrire les constitutions par ceux qui ne devraient pas le faire".
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/constitution.jpg
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/constitution.jpg?raw=true
 ---
 
 # Réinventer la démocratie !
