@@ -1,3 +1,9 @@
+---
+title: Vivre sa retraite dans un écovillage intergénérationnel
+description: Bernard, retraité, a osé se lancer. Il vit cette expérience depuis plus d'un an au sein du Hameau des Buis en Ardèche et dit y trouver une qualité de vie, de communication, quelque chose d'exceptionnel.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/ecovillage_integenerationnel.jpg?raw=true
+---
+
 # Vieillir autrement et entouré
 
 > J'ai décidé de vivre ma retraite dans un écovillage intergénérationnel
