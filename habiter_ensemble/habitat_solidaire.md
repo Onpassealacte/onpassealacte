@@ -1,6 +1,6 @@
 ---
 title: J'ai décidé d'intégrer un village urbain, écologique et solidaire
-description: Tous les deux rêvaient depuis longtemps d’intégrer un projet d’habitat groupé. Ils avaient déjà expérimenté la colocation mais avaient envie d’aller au-delà de cette expérience
+description: Tous les deux rêvaient depuis longtemps d’intégrer un projet d’habitat groupé. Ils avaient déjà expérimenté la colocation mais avaient envie d’aller au-delà de cette expérience.
 image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/habitat_solidaire.jpg?raw=true
 ---
 
