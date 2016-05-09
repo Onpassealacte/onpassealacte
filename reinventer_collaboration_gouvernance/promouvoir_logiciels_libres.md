@@ -1,7 +1,7 @@
 ---
 title: Promouvoir le libre en informatique
 description: Laurent a décidé de défendre la transparence sur tous les fronts. Son engagement l'a amené à promouvoir l'utilisation des logiciels libres.
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/logiciels_libres.jpg
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/logiciels_libres.jpg?raw=true
 ---
 
 # Promouvoir le bien commun en informatique
