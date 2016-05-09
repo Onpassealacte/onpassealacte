@@ -1,7 +1,7 @@
 ---
 title: J'ai décidé de vivre en habitat groupé à la campagne
-description: Initiative d'un mode d'habitat en collectif, plus proche de la terre, soutenue par Terre de Liens
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/habitat_groupe_rural.jpg
+description: Initiative d'un mode d'habitat en collectif, plus proche de la terre, soutenue par Terre de Liens.
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/habitat_groupe_rural.jpg?raw=true
 ---
 
 # Initier un habitat groupé en milieu rural
