@@ -1,7 +1,7 @@
 ---
 title: J'ai décidé de pratiquer la pédagogie coopérative dans une école publique
 description: Une enseignante décide de mettre en place une pratique nouvelle dans sa classe pour permettre aux élèves de mieux apprendre, et ce par différents petits changements qui vont amener de grands résultats.
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/pedagogie_cooperative.jpg
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/pedagogie_cooperative.jpg?raw=true
 ---
 
 # Améliorer l'école par une pédagogie coopérative
