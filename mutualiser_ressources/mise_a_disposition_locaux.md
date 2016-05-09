@@ -1,7 +1,7 @@
 ---
 title: J'ai décidé de mettre mes locaux commerciaux à disposition des innovateurs en tout genre 
 description: Gilberte a décidé d'aider les innovateurs. Pour ça, elle prête 200m2 de bureau situés en plein cœur de Paris à des porteurs de projets innovants.
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/mutualisation_locaux.jpg
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/mutualisation_locaux.jpg?raw=true
 ---
 
 # Favoriser l'acte créateur
