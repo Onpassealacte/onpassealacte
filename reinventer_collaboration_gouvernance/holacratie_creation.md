@@ -1,7 +1,7 @@
 ---
 title: J'ai décidé de créer une gouvernance collective, l'holacratie
 description: L'idée a émergé en participant à des réunions syndicales et associatives. L'équipe a constaté que la parole n'était pas équitablement prise par l'ensemble des participants et que le processus de décision finale n'était pas réellement démocratique.
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/holacratie.jpg
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/holacratie.jpg?raw=true
 ---
 
 # Développer un nouveau modèle de gouvernance
