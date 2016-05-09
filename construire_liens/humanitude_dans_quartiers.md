@@ -1,7 +1,7 @@
 ---
 title: Créer du lien dans ma cité
 description: Ahmed est un philosophe des cités qui entre débats philos, projets internationaux ... fait vivre sa cité.
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/humanitude_quartiers.jpg
+image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/humanitude_quartiers.jpg?raw=true
 ---
 
 # Développer l'Humanitude dans les quartiers
