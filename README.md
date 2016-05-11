@@ -4,6 +4,8 @@ description: L'association Onpassealacte a passé ces 10 dernières années à i
 image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/README_introduction.jpg?raw=true
 ---
 
+<i class="fa fa-folder-open-o" aria-hidden="true"></i>
+
 ![Image](http://www.paroles-partagees.org/images/imagesFCK/image/actions/on_passe_a_l_acte//image_T1.jpg)
 
 Vous trouverez ici des vidéos relatant le témoignage de celles et ceux qui ont porté des initiatives remarquables collaboratives.
