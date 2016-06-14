@@ -10,6 +10,27 @@ image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media
 
 <div>
 
+    <object width="420" height="336">
+
+        <param name="movie" value="http://www.dailymotion.com/swf/x2mxmd&v3=1&related=1"></param>
+
+        <param name="allowFullScreen" value="true"></param>
+
+        <param name="allowScriptAccess" value="always"></param>
+
+    <embed src="http://www.dailymotion.com/swf/x2mxmd&v3=1&related=1" type="application/x-shockwave-flash" width="420" height="336" allowFullScreen="true" allowScriptAccess="always"></embed>
+
+    </object>
+
+
+<br /><b><a href="http://www.dailymotion.com/video/x2mxmd_les-inconnustelemagouille_fun">Les Inconnus-Télémagouille</a></b>
+
+<br /><i>envoyé par <a href="http://www.dailymotion.com/kiavel">kiavel</a></i>
+
+</div>
+
+<div>
+
 <object type="application/x-shockwave-flash" width="425" height="355" data="https://vimeo.com/131476633"><param name="movie" value="https://vimeo.com/131476633" /></object>
 
 </div>
