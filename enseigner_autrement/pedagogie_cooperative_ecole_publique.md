@@ -9,8 +9,8 @@ image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media
 > J'ai décidé de pratiquer la pédagogie coopérative dans une école publique
 
 <div>
-<object type="application/x-shockwave-flash" width="425" height="355" data="https://vimeo.com/131476633">
-<param name="movie" value="https://vimeo.com/131476633" />
+<object type="application/x-shockwave-flash" width="425" height="355" data="https://player.vimeo.com/video/131476633">
+<param name="movie" value="https://player.vimeo.com/video/131476633" />
 <param name="wmode" value="transparent" />
 </object>
 
@@ -23,31 +23,14 @@ image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media
 <iframe src="https://player.vimeo.com/video/131476633?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/131476633">Pratiquer la p&eacute;dagogie coop&eacute;rative dans une &eacute;cole traditionnelle (version longue)</a> from <a href="https://vimeo.com/onpassealacte">On passe &agrave; l&#039;acte</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<html lang="fr">
-
-    <head>
-
-        <meta charset="utf-8">
-
-        <title>Test pour le site du Zér0</title>
-
-    </head>
-
-
-    <body>
-
-
-<video src="https://vimeo.com/131476633" controls>
-
-    Votre navigateur n'est pas compatible avec le HTML 5, désolé.
-
-</video>
-
-
-    </body>
-
-
+<html>
+<video src="https://vimeo.com/131476633" controls></video>
 </html>
+
+<html>
+<video src="https://player.vimeo.com/video/131476633" controls></video>
+</html>
+
 
 Une enseignante décide de mettre en place une pratique nouvelle dans sa classe pour permettre aux élèves de mieux apprendre, et ce par différents petits changements qui vont amener de grands résultats. Le résultat est magique ! 
 
