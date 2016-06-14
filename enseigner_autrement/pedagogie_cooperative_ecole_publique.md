@@ -8,7 +8,7 @@ image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media
 
 > J'ai décidé de pratiquer la pédagogie coopérative dans une école publique
 
-<iframe src="https://player.vimeo.com/video/131476633" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/131476633" width="500" height="281" frameborder="0"></iframe>
 
 Une enseignante décide de mettre en place une pratique nouvelle dans sa classe pour permettre aux élèves de mieux apprendre, et ce par différents petits changements qui vont amener de grands résultats. Le résultat est magique ! 
 
