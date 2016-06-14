@@ -9,7 +9,8 @@ image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media
 > J'ai décidé de pratiquer la pédagogie coopérative dans une école publique
 
 <div>
-<iframe src="https://player.vimeo.com/video/131476633" width="500" height="281" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/131476633?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/131476633">Pratiquer la p&eacute;dagogie coop&eacute;rative dans une &eacute;cole traditionnelle (version longue)</a> from <a href="https://vimeo.com/onpassealacte">On passe &agrave; l&#039;acte</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
 Une enseignante décide de mettre en place une pratique nouvelle dans sa classe pour permettre aux élèves de mieux apprendre, et ce par différents petits changements qui vont amener de grands résultats. Le résultat est magique ! 
