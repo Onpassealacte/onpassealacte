@@ -1,14 +1,14 @@
 ---
 title: Contribuer à la sobriété en partageant sa voiture
 description: Depuis 18 mois, Christine partage sa voiture avec une amie.
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/mutualiser_voiture.jpg?raw=true
+image_url: https://i.vimeocdn.com/video/534549314_350.jpg
 ---
 
 # Contribuer à la sobriété en partageant sa voiture
 
 > J'ai décidé d'utiliser une voiture pour deux 
 
-<iframe src="https://player.vimeo.com/video/138948710" width="620" height="348" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[![](https://i.vimeocdn.com/video/534549314_640.jpg)](https://player.vimeo.com/video/138948710)
 
 Depuis 18 mois, Christine partage sa voiture avec une amie. Elle n'en ont besoin, chacune, que ponctuellement. L'idée lui est venue de partager sa voiture lorsque cette amie lui a dit qu'elle avait besoin d'un véhicule.
 

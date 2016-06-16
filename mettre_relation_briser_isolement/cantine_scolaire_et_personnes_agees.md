@@ -1,7 +1,7 @@
 ---
 title: J'ai décidé d'ouvrir la cantine scolaire aux anciens du village
 description: A Bioule, petite cantine du Tarn et Garonne, têtes blondes et têtes blanches partagent les mêmes tables le temps de deux déjeuners par semaine. 
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/cantaine_scolaire.jpg?raw=true
+image_url: https://i.vimeocdn.com/video/507448083_350.jpg
 ---
 
 # Permettre aux personnes âgées de partager des repas avec les enfants de l'école
