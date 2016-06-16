@@ -12,6 +12,12 @@ published: true
 
 > J'ai décidé de valoriser les intelligences multiples de mes élèves
 
+<video> 
+[skipped]
+<thumbnail_large>http://ts.vimeo.com.s3.amazonaws.com/235/662/136709333_640.jpg</thumbnail_large> 
+[skipped]
+</videos>
+
 <embed src=”http://vimeo.com/moogaloop.swf?clip_id=136709333&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=00adef&fullscreen=1″ type=”application/x-shockwave-flash” allowfullscreen=”true” allowscriptaccess=”always” width=”620″ height=”348″></embed>
 
 Séverine est institutrice et elle a décidé de prendre en compte les intelligences multiples dans la pratique de son métier.
