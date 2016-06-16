@@ -1,7 +1,7 @@
 ---
 title: On a monté une pièce de théâtre pendant nos récrés !
 description: Luna, 8 ans, a passé plus de dix récréations à répéter avec ses copains une pièce de théâtre que les enfants ont adaptée tout seuls à partir d un livre…
-image: https://i.vimeocdn.com/video/516757830_350.jpg
+image_url: https://i.vimeocdn.com/video/516757830_350.jpg
 ---
 
 # Etre force de proposition même quand on est enfant
