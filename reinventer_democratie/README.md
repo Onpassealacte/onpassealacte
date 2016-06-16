@@ -1,9 +1,0 @@
----
-title: Réinventer la démocratie
-description: Elus et citoyens nous racontent comment ils font bouger les lignes.
-image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media/sites_collectivites.jpg?raw=true
----
-
-# Réinventer la démocratie
-
-> Elus et citoyens nous racontent comment ils font bouger les lignes.
