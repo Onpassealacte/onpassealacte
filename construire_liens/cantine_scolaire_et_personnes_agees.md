@@ -6,11 +6,9 @@ image_url: https://github.com/onpassealacte/videos_initiatives/blob/master/media
 
 # Permettre aux personnes âgées de partager des repas avec les enfants de l'école
 
-e
-
 > J'ai décidé d'ouvrir la cantine scolaire aux anciens du village !
 
-<iframe src="https://player.vimeo.com/video/119855672" width="620" height="348" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[![](https://i.vimeocdn.com/video/507448083_640.jpg)](https://player.vimeo.com/video/119855672)
 
 « Moi je préfère manger à la cantine »
 
